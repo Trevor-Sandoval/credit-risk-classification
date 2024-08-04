@@ -4,6 +4,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
 
 
 Objectives:
+-
 The instructions for this Challenge are divided into the following subsections:
 
 -- Split the Data into Training and Testing Sets
